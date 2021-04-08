@@ -1,5 +1,5 @@
 name: crystglfw
-version: 0.2.0
+version: 0.2.1
 
 authors:
   - Caleb Uriah Harrison <calebuharrison@gmail.com>
@@ -9,6 +9,6 @@ dependencies:
     github: calebuharrison/LibGLFW
     branch: master
 
-crystal: 0.23.1
+crystal: 1.0.0
 
 license: MIT
